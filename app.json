@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "anti-bully-app",
+    "slug": "snack-f46b461b-e0a5-4fce-a5e8-027ebdebe441",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.debopomdey.snackf46b461be0a54fcea5e8027ebdebe441"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
